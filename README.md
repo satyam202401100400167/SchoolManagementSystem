@@ -108,30 +108,4 @@ SchoolManager/
 4. **Manage Teachers** - Complete teacher management operations
 5. **Logout** - Securely end your session
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-Created with ❤️ by Prateek Balityan
-
-## 🙏 Acknowledgments
-
-- Inspired by modern school management systems
-- Built following MVC architecture patterns
-- Uses Bootstrap-inspired styling
-
----
-
 ⭐ **Star this repo if you find it helpful!**
